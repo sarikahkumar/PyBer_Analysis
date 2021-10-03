@@ -6,12 +6,9 @@ The purpose of this project is to:
 -    Create a  visualization
 
 ---
-### **Results**
----
+## **Results**
 
 The differences in ride-sharing data among the different city types was done and the results are provided below.
-
----
 
 ![Capture](https://user-images.githubusercontent.com/89427676/135764864-52e43db7-e231-4606-8434-dc57b1c2e70e.PNG)
 
@@ -23,19 +20,16 @@ As evident from the above,
 ---
 ### **Total ride fare based on city types**
 
-
 A visual representation of total ride fare based on city types from 01-01-2019 to 28-04-2019 is provided below.
 
-
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/89427676/135764633-d1646ea7-09b4-45ff-9e8f-ee8076e9cb81.png)
-
 
 As evident from the figure,
 - Urban cities earned highest fare during the period, followed by suburban and the lowest fares in rural cities
 - Common peak season appears to be during late February for all three cities, though April was also appeared to be a peak season in rural cities
 - The peak fares charged in rural cities appear to be **one-fifth** of that charged by urban cities, and **one-third** of that charged by suburban cities
 ---
-##**Summary**
+## **Summary**
 
 
 The reason for high average fare per driver, and high average fare per ride, is highest in rural cities due to low number of rides and drivers in rural cities. Similarly, highest total fare, and largest number of drivers contributed to low average fare per ride, and per driver for urban cities.
