@@ -2,8 +2,8 @@
  
 ## **Overview of the analysis**
 The purpose of this project is to:
-    (i)Analyze all the rideshare data from January to early May of 2019 of PyBer 
-    (ii)Create a  visualization
+-    (i)Analyze all the rideshare data from January to early May of 2019 of PyBer 
+-   (ii)Create a  visualization
 
 ---
 ##**Results**
