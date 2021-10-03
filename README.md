@@ -23,9 +23,10 @@ As evident from the above,
 - the total number of rides, and drivers is lowest for rural cities, and highest for urban cities
 - the total fare from urban cities is the highest which was approximately 2 times taht of suburban cities and 10 times that of rural cities
 ---
-### **Visual representation of total ride fare based on city types**
+### **Total ride fare based on city types**
 ---
 A visual representation of total ride fare based on city types from 01-01-2019 to 28-04-2019 is provided below.
+---
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/89427676/135764633-d1646ea7-09b4-45ff-9e8f-ee8076e9cb81.png)
 ---
 As evident from the figure,
