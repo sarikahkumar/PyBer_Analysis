@@ -27,6 +27,7 @@ As evident from the above,
 ---
 A visual representation of total ride fare based on city types from 01-01-2019 to 28-04-2019 is provided below.
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/89427676/135764633-d1646ea7-09b4-45ff-9e8f-ee8076e9cb81.png)
+---
 As evident from the figure,
 - Urban cities earned highest fare during the period, followed by suburban and the lowest fares were      received in rural cities
 - Common peak season appears to be during late February for all three cities, though April was also appeared to be a peak season in rural cities
