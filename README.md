@@ -2,8 +2,8 @@
  
 ## **Overview of the analysis**
 The purpose of this project is to:
--    Analyze all the rideshare data from January to early May of 2019 of PyBer 
--    Create a  visualization
+-    Analyze all the rideshare data from January to early May of 2019 of PyBer by creating a summary dataframe using Python and Pandas
+-    Create a visualization (a multiple-line graph that shows the total weekly fares for each city type) using Pandas and Matplotlib
 
 ---
 ## **Results**
