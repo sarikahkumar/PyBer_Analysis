@@ -10,7 +10,8 @@ The purpose of this project is to:
 
 The differences in ride-sharing data among the different city types was done and the results are provided below.
 
-![Capture](https://user-images.githubusercontent.com/89427676/135764864-52e43db7-e231-4606-8434-dc57b1c2e70e.PNG)
+![Ride data](https://user-images.githubusercontent.com/89427676/135766414-a50384bb-bf05-48fc-a9ed-d72fdccb34a3.PNG)
+
 
 As evident from the above, 
 - The average fare per ride is high in rural cities, and lowest for urban cities.
