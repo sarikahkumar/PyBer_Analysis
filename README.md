@@ -8,7 +8,7 @@ The purpose of this project is to:
 ---
 ## **Results**
 
-The differences in ride-sharing data among the different city types was done and the results are provided below.
+The differences in ride-sharing data among the different city types was done and a ride sharing summary dataframe was created to give better insight into the analysis. The results are provided below.
 
 ![Ride data](https://user-images.githubusercontent.com/89427676/135766414-a50384bb-bf05-48fc-a9ed-d72fdccb34a3.PNG)
 
